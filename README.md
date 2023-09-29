@@ -15,7 +15,6 @@ I tend to gravitate towards projects that allow people to make projects them sel
 <img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=immaspring&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=imma-Spring)](https://git.io/streak-stats)
 <div align="center">
   <h2> My Github Stats </h2><br>
   <img src="https://streak-stats.demolab.com?user=imma-Spring"><br>
