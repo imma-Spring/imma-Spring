@@ -1,21 +1,26 @@
-# Hi, I'm Imma-Spring!
-I'm a programming language enthusiast who loves creating new programming languages. I'm competent in Java, C++, and C, but I'm always eager to learn more programming languages and explore new technologies.
+<div align="center">
+  <h1>Hi, I'm Jairus</h1>
+</div>
 
-## Programming Languages
-### Java
-I've been using Java for about a year now and have worked on a couple personal progects for school. The course I'm taking focuses on Java so I'm decently competent in it
+<div align="center">
+I'm a programming enthusiast.<br>
+I'm part self-taught, part school-taught.<br>
+I tend to gravitate towards projects that allow people to make projects them selves.
+</div>
 
-### C++
-I also have been learing c++ in my free time. Curently the only project I've done in c++ is RAC but I plan on doing more.
+# Languages
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css"><br><h2></h2><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imma-Spring"><br><h2></h2><br>
+<img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=immaspring&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
+</div>
 
-### C
-I havent been doing much in c but I enjoy the language a lot and am at least semi-competent in it.
+<div align="center">
+  <h2> My Github Stats </h2><br>
+  <img src="https://streak-stats.demolab.com?user=imma-Spring&theme=radical)](https://git.io/streak-stats"><br>
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=imma-Spring&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+</div> <br>
 
-### Other Languages
-I plan on learing a large number of other languages such as Haskell, Zig, and more. I have some basic understanding of JavaScript and Python.
-
-## Projects
-### [RAC]
-[RAC] is a very basic programming language. It is the first language I've made so it is quite simple.
-### [Chronos]
-[Chronos] is a 2D game engine. It is my largest project, as well as my proudest
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imma-Spring&custom_title=imma-Spring's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="imma-Spring's Github Activity Graph" width="100%">
+</div>
