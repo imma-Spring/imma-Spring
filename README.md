@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Jairus</h1>
+  <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&size=30&duration=12000&pause=1000&color=F7B211&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Jaiurs" alt="Typing SVG" /></a></h1>
 </div>
 
 <div align="center">
