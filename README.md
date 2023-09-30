@@ -8,8 +8,8 @@ I'm part self-taught, part school-taught.<br>
 I tend to gravitate towards projects that allow people to make projects them selves.
 </div>
 
-# Languages
 <div align="center">
+  <h2>Languages</h2>
 <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css"><br><h2></h2><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imma-Spring"><br><h2></h2><br>
 <img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=immaspring&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
