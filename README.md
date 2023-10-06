@@ -29,7 +29,7 @@ I tend to gravitate towards projects that allow people to make projects themselv
 
 <div align="center">
   <h2>Tools</h2>
-<img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,git,github,godot"><br><h2></h2><br>
+<img src="https://skillicons.dev/icons?i=idea,vscode,neovim,git,github,linux"><br><h2></h2><br>
 </div>
 
 <div align="center">
