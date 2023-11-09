@@ -22,7 +22,7 @@ I tend to gravitate towards projects that allow people to make projects themselv
 
 <div align="center">
   <h2>Languages</h2>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,cs,html,css,godot"><br><h2></h2><br>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,cs,html,css,godot,bash"><br><h2></h2><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imma-Spring"><br><h2></h2><br>
 <img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=immaspring&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
 </div>
