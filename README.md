@@ -1,56 +1,38 @@
-<div align="center">
-  <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&size=30&duration=7000&pause=1000&color=F7B211&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Jaiurs" alt="Typing SVG" /></a></h1>
-  Profile Views<br>
-  <img src="https://profile-counter.glitch.me/imma-Spring/count.svg" />
-  <br><h2></h2><br>
-</div>
-<div align="center">
-I'm a programming enthusiast.<br>
-I'm part self-taught, part school-taught.<br>
-I tend to gravitate towards projects that allow people to make projects themselves.
-</div>
+# Hi, I'm Jaiurs 👋
 
-<div>
-  <br><h2></h2><br>
-  <ul>
-    <li>Current HS Senior</li>
-    <li>Currently learning : Game engine and Compiler design</li>
-    <li>AP : 5 on CompSciA</li>
-    <li>Hobbies : Coding, Sleeping, Eating, Manga / Manwha, Watching American Football (Go Birds!)</li>
-  </ul>
-</div>
+I'm a high school senior with a passion for programming, focusing on C.
 
-<div align="center">
-  <h2>Languages</h2>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,cs,html,css,godot,bash"><br><h2></h2><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imma-Spring"><br><h2></h2><br>
-<img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=immaspring&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
-</div>
+## About Me
 
-<div align="center">
-  <h2>Tools</h2>
-<img src="https://skillicons.dev/icons?i=idea,vscode,neovim,git,github,linux"><br><h2></h2><br>
-</div>
+I enjoy creating projects that empower others and exploring the world of technology.
 
-<div align="center">
-  <h2> My Github Stats </h2><br>
-  <img src="https://streak-stats.demolab.com?user=imma-Spring"><br>
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=imma-Spring&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
-</div> <br>
+## Current Status
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imma-Spring&custom_title=imma-Spring's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="imma-Spring's Github Activity Graph" width="100%">
-</div>
+- 📚 Currently learning: Game engine and Compiler design
+- 🎓 AP: Scored 5 on CompSciA
+- 🌟 Hobbies: Coding, Sleeping, Eating, Manga/Manwha, Watching American Football (Go Birds!)
 
-<div align="center">
-  <h2 align="center"> Projects </h2><br>
-  <a href="https://github.com/imma-Spring/Chronos" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=imma-Spring&theme=radical&repo=Chronos" width="49%" alt="chronos"/>
-  </a><br>
-  <a href="https://github.com/imma-Spring/RAC" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=imma-Spring&theme=radical&repo=RAC" width="49%" alt="RAC"/>
-  </a><br>
-  <a href="https://github.com/imma-Spring/CalculatorApp" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=imma-Spring&theme=radical&repo=CalculatorApp" width="49%" alt="calc-app"/>
-  </a>
-</div>
+## Skills & Tools
+
+- **Languages:**
+- <img src="https://skillicons.dev/icons?i=c,java,cpp,cs,html,css,godot,bash" alt="Languages">
+- **Tools:**
+- <img src="https://skillicons.dev/icons?i=idea,neovim,git,github,linux" alt="Tools">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imma-Spring)
+![Wakatime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=immaspring&layout=compact)
+  
+## GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=imma-Spring)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imma-Spring&theme=radical&show_icons=true&count_private=true)
+
+## GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imma-Spring&custom_title=GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
+
+## Projects
+
+![Chronos](https://github-readme-stats.vercel.app/api/pin/?username=imma-Spring&theme=radical&repo=Chronos)
+
+![LM](https://github-readme-stats.vercel.app/api/pin/?username=imma-Spring&theme=radical&repo=LM)
