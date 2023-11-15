@@ -15,9 +15,9 @@ I enjoy creating projects that empower others and exploring the world of technol
 ## Skills & Tools
 
 - **Languages:**
-- <img src="https://skillicons.dev/icons?i=c,java,cpp,cs,html,css,godot,bash" alt="Languages">
+<img src="https://skillicons.dev/icons?i=c,java,cpp,cs,html,css,godot,bash" alt="Languages">
 - **Tools:**
-- <img src="https://skillicons.dev/icons?i=idea,neovim,git,github,linux" alt="Tools">
+<img src="https://skillicons.dev/icons?i=idea,neovim,git,github,linux" alt="Tools">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imma-Spring)
 ![Wakatime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=immaspring&layout=compact)
