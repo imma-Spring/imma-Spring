@@ -35,4 +35,4 @@ I enjoy creating projects that empower others and exploring the world of technol
 
 ![Chronos](https://github-readme-stats.vercel.app/api/pin/?username=imma-Spring&theme=radical&repo=Chronos)
 
-![LM](https://github-readme-stats.vercel.app/api/pin/?username=imma-Spring&theme=radical&repo=LM)
+![clox](https://github-readme-stats.vercel.app/api/pin/?username=imma-Spring&theme=radical&repo=clox-implementation)
