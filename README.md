@@ -4,7 +4,7 @@ I'm a high school senior with a passion for programming, focusing on C.
 
 ## About Me
 
-I enjoy creating projects that empower others and exploring the world of technology.
+I enjoy creating projects that others can use and exploring the world of technology.
 
 ## Current Status
 
@@ -16,6 +16,7 @@ I enjoy creating projects that empower others and exploring the world of technol
 
 - **Languages:**
 <img src="https://skillicons.dev/icons?i=c,java,cpp,cs,html,css,godot,bash" alt="Languages">
+
 - **Tools:**
 <img src="https://skillicons.dev/icons?i=idea,neovim,git,github,linux" alt="Tools">
 
