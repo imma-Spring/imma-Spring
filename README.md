@@ -8,7 +8,7 @@ I enjoy creating projects that others can use and exploring the world of technol
 
 ## Current Status
 
-- 📚 Currently learning: Game engine and Compiler design
+- 📚 Currently learning: Language design
 - 🎓 AP: Scored 5 on CompSciA
 - 🌟 Hobbies: Coding, Sleeping, Eating, Manga/Manwha, Watching American Football (Go Birds!)
 
