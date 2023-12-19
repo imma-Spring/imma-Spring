@@ -16,10 +16,10 @@ I enjoy creating projects that others can use and exploring the world of technol
 ## Skills & Tools
 
 - **Languages:**
-<img src="https://skillicons.dev/icons?i=c,java,cpp,cs,html,css,godot,bash,cmake" alt="Languages">
+<img src="https://skillicons.dev/icons?i=c,java,cpp,cs,html,css,python,godot,bash,latex,md,cmake" alt="Languages">
 
 - **Tools:**
-<img src="https://skillicons.dev/icons?i=neovim,idea,git,github,linux" alt="Tools">
+<img src="https://skillicons.dev/icons?i=neovim,idea,git,github,linux,pytorch" alt="Tools">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imma-Spring)
 ![Wakatime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=immaspring&layout=compact)
