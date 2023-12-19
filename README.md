@@ -9,16 +9,17 @@ I enjoy creating projects that others can use and exploring the world of technol
 ## Current Status
 
 - 📚 Currently learning: Language design
+- 🔧 Currently working on: ![Static Badge](https://img.shields.io/badge/-Salmon-%23FA8072?style=flat-square&color=%23FA8072&link=https%3A%2F%2Fgithub.com%2FSalmon-lang%2FSalmon)
 - 🎓 AP: Scored 5 on CompSciA
 - 🌟 Hobbies: Coding, Sleeping, Eating, Manga/Manwha, Watching American Football (Go Birds!)
 
 ## Skills & Tools
 
 - **Languages:**
-<img src="https://skillicons.dev/icons?i=c,java,cpp,cs,html,css,godot,bash" alt="Languages">
+<img src="https://skillicons.dev/icons?i=c,java,cpp,cs,html,css,godot,bash,cmake" alt="Languages">
 
 - **Tools:**
-<img src="https://skillicons.dev/icons?i=idea,neovim,git,github,linux" alt="Tools">
+<img src="https://skillicons.dev/icons?i=neovim,idea,git,github,linux" alt="Tools">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imma-Spring)
 ![Wakatime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=immaspring&layout=compact)
