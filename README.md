@@ -1,4 +1,6 @@
 # Hi, I'm Jaiurs 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imma-Spring&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chpsscode" /> </p>
+<br>
 
 I'm a high school senior with a passion for programming, focusing on C.
 
