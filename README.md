@@ -23,7 +23,7 @@ I enjoy creating projects that others can use and exploring the world of technol
 - **Tools:**
 <img src="https://skillicons.dev/icons?i=neovim,idea,git,github,linux,pytorch" alt="Tools">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imma-Spring)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imma-Spring&layout=pie)
 ![Wakatime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=immaspring&layout=compact)
   
 ## GitHub Stats
