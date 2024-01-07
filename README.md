@@ -11,7 +11,7 @@ I enjoy creating projects that others can use and exploring the world of technol
 ## Current Status
 
 - 📚 Currently learning: Language design
-- 🔧 Currently working on: ![Static Badge](https://img.shields.io/badge/-Salmon-%23FA8072?style=flat-square&color=%23FA8072&link=https%3A%2F%2Fgithub.com%2FSalmon-lang%2FSalmon)
+- 🔧 Currently working on: ![Static Badge](https://img.shields.io/badge/-Salmon-FA8072?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FSalmon-lang%2FSalmon)
 - 🎓 AP: Scored 5 on CompSciA
 - 🌟 Hobbies: Coding, Sleeping, Eating, Manga/Manwha, Watching American Football (Go Birds!)
 
