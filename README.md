@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imma-Spring&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chpsscode" /> </p>
 <br>
 
-I'm a Penn State Student with a passion for programming, focusing on C.
+I'm a Penn State Student with a passion for programming, focusing on low level languages.
 
 ## About Me
 
@@ -10,15 +10,15 @@ I enjoy creating projects that others can use and exploring the world of technol
 
 ## Current Status
 
-- 📚 Currently learning: Language design
-- 🔧 Currently working on: ![Static Badge](https://img.shields.io/badge/-Salmon-FA8072?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FSalmon-lang%2FSalmon)
+- 📚 Currently learning: Zig
+- 🔧 Currently working on: Writing a game in zig 
 - 🎓 AP: Scored 5 on CompSciA
 - 🌟 Hobbies: Coding, Sleeping, Eating, Manga/Manwha, Watching American Football (Go Birds!)
 
 ## Skills & Tools
 
 - **Languages:**
-<img src="https://skillicons.dev/icons?i=c,java,cpp,cs,html,css,python,godot,bash,latex,md,cmake" alt="Languages">
+<img src="https://skillicons.dev/icons?i=c,java,cpp,cs,html,css,python,godot,bash,latex,md,cmake,zig" alt="Languages">
 
 - **Tools:**
 <img src="https://skillicons.dev/icons?i=neovim,idea,git,github,linux,pytorch" alt="Tools">
