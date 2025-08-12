@@ -11,9 +11,9 @@ I enjoy creating projects that others can use and exploring the world of technol
 ## Current Status
 
 - 📚 Currently learning: Zig
-- 🔧 Currently working on: Writing a game in zig 
+- 🔧 Currently working on: Making a custom Markdown editor
 - 🎓 AP: Scored 5 on CompSciA
-- 🌟 Hobbies: Coding, Sleeping, Eating, Manga/Manwha, Watching American Football (Go Birds!)
+- 🌟 Hobbies: Coding, Sleeping, Eating, Manga/Manwha, Watching American Football (Go Birds!), Geometry Dash
 
 ## Skills & Tools
 
