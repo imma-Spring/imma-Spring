@@ -18,7 +18,7 @@ I enjoy creating projects that others can use and exploring the world of technol
 ## Skills & Tools
 
 - **Languages:**
-<img src="https://skillicons.dev/icons?i=c,java,cpp,cs,html,css,python,godot,bash,latex,md,cmake,zig" alt="Languages">
+<img src="https://skillicons.dev/icons?i=zig,c,java,cpp,cs,html,css,python,godot,bash,latex,md,cmake,zig" alt="Languages">
 
 - **Tools:**
 <img src="https://skillicons.dev/icons?i=neovim,idea,git,github,linux,pytorch" alt="Tools">
