@@ -11,7 +11,7 @@ I enjoy creating projects that others can use and exploring the world of technol
 ## Current Status
 
 - 📚 Currently learning: Zig
-- 🔧 Currently working on: Making a custom Markdown editor
+- 🔧 Currently working on: [Making a custom Markdown editor](https://github.com/imma-Spring/folio)
 - 🎓 AP: Scored 5 on CompSciA
 - 🌟 Hobbies: Coding, Sleeping, Eating, Manga/Manwha, Watching American Football (Go Birds!), Geometry Dash
 
