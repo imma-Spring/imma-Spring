@@ -54,6 +54,7 @@ Godot, Git, GitHub, Linux, PyTorch, Neovim, IntelliJ IDEA, CMake
 | [clox-implementation](https://github.com/imma-Spring/clox-implementation) | C implementation of the Lox language |
 | [Salmon](https://github.com/Salmon-lang/Salmon) | Experimental programming language based on Lox |
 | [vast](https://github.com/imma-Spring/vast) | Stack based programming language |
+| [folio](https://github.com/imms-Spring/folio) | Custom Markdown Editor |
 
 ---
 
